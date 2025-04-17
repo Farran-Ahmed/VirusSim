@@ -1,5 +1,5 @@
 
-//Lab Purpose: Virus Spread Simulation Using Recursion and Iteration
+//Purpose: Virus Spread Simulation Using Recursion and Iteration
 
 #include<iomanip> // libary 
 #include<cmath>
